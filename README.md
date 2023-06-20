@@ -1,6 +1,5 @@
 # Web Scraping Movies from IMDB
 
-View the Project on Jovian: https://jovian.com/snehabajaj108/web-scraping-imdb
 
 Web Scraping is used to extract data from websites into a structured format like a csv file which can be further used for analysis. Many tools like scrapy, pyspider and other SaaS based platforms are available for this purpose. This project uses requests, BeautifulSoup and pandas libraries from Python.
 
